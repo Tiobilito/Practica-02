@@ -1,4 +1,4 @@
-# Práctica 02
+# RandomRenamer
 
 Este proyecto es una aplicación de Windows Forms que permite seleccionar una carpeta y realizar operaciones de renombrado de archivos y directorios dentro de ella.
 
